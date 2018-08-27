@@ -933,7 +933,7 @@ a.more-link {
 .post-summary .post-thumbnail {
 	float: left;
 	margin-bottom: 20px;
-	margin-left: 30px;
+	margin-right: 30px;
 	min-width: 130px;
 	padding-top: 2px;
 	width: 25%;
